@@ -40,6 +40,11 @@ If abnormal values are detected, the system can notify the user instantly.
 ![Image](https://github.com/Arnav123121/Smart-Health-Monitoring-System/blob/main/Telegram%20(1).jpeg?raw=true)
 
 ![Image](https://github.com/Arnav123121/Smart-Health-Monitoring-System/blob/main/Telegram%20(2).jpeg?raw=true)
+
+### Running Code
+
+![Image](https://github.com/Arnav123121/Smart-Health-Monitoring-System/blob/main/Code.jpeg?raw=true)
+
 ---
 
 # ⚙️ Features
