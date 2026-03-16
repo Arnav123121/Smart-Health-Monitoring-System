@@ -1,11 +1,3 @@
-# Smart-Health-Monitoring-System
-IoT-based Smart Health Monitoring System using ESP32 and Arduino to monitor ECG, heart rate (BPM), SpO₂, body temperature, eye blink, and motion. Data is displayed on an LCD and sent to a Telegram bot for real-time remote health monitoring.
-Below is a **clean, professional GitHub README.md** you can directly paste into your repository for your **Smart Health Monitoring System** project. I structured it like a real open-source hardware + IoT project so it looks strong on GitHub and in your portfolio.
-
-You can copy this entire file as **README.md**.
-
----
-
 # 🩺 Smart Health Monitoring System (IoT Based)
 
 An **IoT-based Smart Health Monitoring System** designed to continuously monitor vital health parameters and transmit the data remotely using the internet.
@@ -41,19 +33,15 @@ If abnormal values are detected, the system can notify the user instantly.
 
 ![Image](https://projects.arduinocontent.cc/9c4b92ac-cec2-4204-9d20-05184123538b.png)
 
-"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\WhatsApp Image 2026-03-16 at 9.57.11 PM.jpeg"
-"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\SS.jpeg"
-"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\SSS.jpeg"
-"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\WhatsApp Image 2026-03-16 at 9.56.13 PM.jpeg"
 ### Telegram Bot Monitoring
 
 ![Image](https://www.electronicsforu.com/wp-contents/uploads/2026/01/telegram-wearable-health-monitoring-system.jpeg)
 
 ![Image](https://www.electronicsforu.com/wp-contents/uploads/2026/01/iot-wearable-tag.jpg)
 
-"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\SA.jpeg"
+![Image](https://www.researchgate.net/publication/344631992/figure/fig5/AS%3A946179869253634%401602598268265/a-and-b-Design-BOT-Telegram-RESULT-The-microcontroller-based-infusion-warning-works.jpg)
 
-"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\WhatsApp Image 2026-03-16 at 11.28.24 PM.jpeg"
+![Image](https://cdn2.hubspot.net/hubfs/2990530/864402-Telegram.RZ.png)
 
 ---
 
@@ -263,3 +251,11 @@ You will start receiving health data.
 **Arnav Domalwar**
 
 Electronics & IoT Developer
+
+---
+
+# ⭐ Contribute
+
+Contributions are welcome!
+
+Just tell me 👍
