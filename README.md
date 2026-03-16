@@ -41,15 +41,19 @@ If abnormal values are detected, the system can notify the user instantly.
 
 ![Image](https://projects.arduinocontent.cc/9c4b92ac-cec2-4204-9d20-05184123538b.png)
 
+"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\WhatsApp Image 2026-03-16 at 9.57.11 PM.jpeg"
+"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\SS.jpeg"
+"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\SSS.jpeg"
+"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\WhatsApp Image 2026-03-16 at 9.56.13 PM.jpeg"
 ### Telegram Bot Monitoring
 
 ![Image](https://www.electronicsforu.com/wp-contents/uploads/2026/01/telegram-wearable-health-monitoring-system.jpeg)
 
 ![Image](https://www.electronicsforu.com/wp-contents/uploads/2026/01/iot-wearable-tag.jpg)
 
-![Image](https://www.researchgate.net/publication/344631992/figure/fig5/AS%3A946179869253634%401602598268265/a-and-b-Design-BOT-Telegram-RESULT-The-microcontroller-based-infusion-warning-works.jpg)
+"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\SA.jpeg"
 
-![Image](https://cdn2.hubspot.net/hubfs/2990530/864402-Telegram.RZ.png)
+"C:\Users\arnav\OneDrive\Desktop\Smart Health Monitoring System\WhatsApp Image 2026-03-16 at 11.28.24 PM.jpeg"
 
 ---
 
