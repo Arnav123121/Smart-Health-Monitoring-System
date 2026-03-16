@@ -25,23 +25,13 @@ If abnormal values are detected, the system can notify the user instantly.
 
 ### System Prototype
 
-![Image](https://projects.arduinocontent.cc/cover-images/61fb33d1-79d3-43c1-af6c-dde4752a4c62.blob)
-
 ![Image](https://iotdesignpro.com/sites/default/files/main-image/IoT-Based-Remote-Patient%20-Monitoring-System.jpg)
 
 ![Image](https://circuitdigest.com/sites/default/files/projectimage_mic/IoT-based-Patient-Monitoring-System-using-ESP8266-and-Arduino.jpg)
 
-![Image](https://projects.arduinocontent.cc/9c4b92ac-cec2-4204-9d20-05184123538b.png)
 
 ### Telegram Bot Monitoring
 
-![Image](https://www.electronicsforu.com/wp-contents/uploads/2026/01/telegram-wearable-health-monitoring-system.jpeg)
-
-![Image](https://www.electronicsforu.com/wp-contents/uploads/2026/01/iot-wearable-tag.jpg)
-
-![Image](https://www.researchgate.net/publication/344631992/figure/fig5/AS%3A946179869253634%401602598268265/a-and-b-Design-BOT-Telegram-RESULT-The-microcontroller-based-infusion-warning-works.jpg)
-
-![Image](https://cdn2.hubspot.net/hubfs/2990530/864402-Telegram.RZ.png)
 
 ---
 
