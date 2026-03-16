@@ -31,6 +31,8 @@ If abnormal values are detected, the system can notify the user instantly.
 
 ![Image](https://github.com/Arnav123121/Smart-Health-Monitoring-System/blob/main/System%20(5).jpeg?raw=true)
 
+![Image](https://github.com/Arnav123121/Smart-Health-Monitoring-System/blob/main/System%20(6).jpeg?raw=true)
+
 ### Telegram Bot Monitoring
 
 
